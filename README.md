@@ -1,1 +1,1 @@
-# Laboratory
+# Am folosit Strategy Design PAttern pentru a anticipa miscarea unui viking dupa 2 stari, mers si zbor. Implementarea am incercat sa o fac conform https://www.codewars.com/kata/5682e809386707366d000024
