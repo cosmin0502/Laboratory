@@ -1,1 +1,1 @@
-# Am folosit Strategy Design PAttern pentru a anticipa miscarea unui viking dupa 2 stari, mers si zbor. Implementarea am incercat sa o fac conform https://www.codewars.com/kata/5682e809386707366d000024
+# Am folosit Factory Method pentru a lua obiectele si a le muta in main-ul programului (pentru a vedea ce sunete scoare fiecare dinozaur) si Proxy pentru a permite sau nu accesul (poate sa intre sau nu in cuib)
