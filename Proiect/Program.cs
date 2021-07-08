@@ -1,25 +1,21 @@
 ﻿using System;
-using System.Collections.Generic;
 
-class Program
+namespace Proiect
 {
-    static void Main()
+    class Program
     {
-        List<string> values = new List<string>();
-        values.Add("Patrat");
-        values.Add("Triunghi");
-        values.Add("Dreptunghi");
-
-        List<string> formula = new List<string>();
-        formula.Add("l*l");
-        formula.Add("(B*h)/2");
-        formula.Add("L*l");
-              
-        for (int i = 0; i < values.Count; i++)
-        {            
-            string value = values[i];
-            string valuess = formula[i];
-            Console.WriteLine($"Area of {value} is calculated using this formula: {valuess}");
+        static void Main(string[] args)
+        {
+            Shape[] shapes = {
+                new Circle(1),
+                new Rectangle(1,1),
+                new Square(1)};
+                        
+            foreach (Shape s in shapes)
+            {            
+                Console.WriteLine("{0} Area : {1:f2}", s.Name, s.Area());
+                Console.WriteLine(s.Formula);
+            }                 
         }
-    }   
+    }
 }

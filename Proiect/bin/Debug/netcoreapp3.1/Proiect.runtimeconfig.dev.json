@@ -2,7 +2,8 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\Cosmin\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Cosmin\\.nuget\\packages"
+      "C:\\Users\\Cosmin\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ]
   }
 }
