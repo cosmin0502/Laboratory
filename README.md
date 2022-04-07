@@ -1,1 +1,1 @@
-# Laboratory
+# Am folosit Factory Method pentru a lua obiectele si a le muta in main-ul programului (pentru a vedea ce sunete scoare fiecare dinozaur) si Proxy pentru a permite sau nu accesul (poate sa intre sau nu in cuib)

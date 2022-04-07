@@ -1,0 +1,26 @@
+C:\Users\Cosmin\Desktop\Proiect\bin\Debug\netcoreapp3.1\Proiect.exe
+C:\Users\Cosmin\Desktop\Proiect\bin\Debug\netcoreapp3.1\Proiect.deps.json
+C:\Users\Cosmin\Desktop\Proiect\bin\Debug\netcoreapp3.1\Proiect.runtimeconfig.json
+C:\Users\Cosmin\Desktop\Proiect\bin\Debug\netcoreapp3.1\Proiect.runtimeconfig.dev.json
+C:\Users\Cosmin\Desktop\Proiect\bin\Debug\netcoreapp3.1\Proiect.dll
+C:\Users\Cosmin\Desktop\Proiect\bin\Debug\netcoreapp3.1\Proiect.pdb
+C:\Users\Cosmin\Desktop\Proiect\obj\Debug\netcoreapp3.1\Proiect.csproj.AssemblyReference.cache
+C:\Users\Cosmin\Desktop\Proiect\obj\Debug\netcoreapp3.1\Proiect.AssemblyInfoInputs.cache
+C:\Users\Cosmin\Desktop\Proiect\obj\Debug\netcoreapp3.1\Proiect.AssemblyInfo.cs
+C:\Users\Cosmin\Desktop\Proiect\obj\Debug\netcoreapp3.1\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\Proiect\obj\Debug\netcoreapp3.1\Proiect.dll
+C:\Users\Cosmin\Desktop\Proiect\obj\Debug\netcoreapp3.1\Proiect.pdb
+C:\Users\Cosmin\Desktop\Proiect\obj\Debug\netcoreapp3.1\Proiect.genruntimeconfig.cache
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\bin\Debug\netcoreapp3.1\Proiect.exe
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\bin\Debug\netcoreapp3.1\Proiect.deps.json
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\bin\Debug\netcoreapp3.1\Proiect.runtimeconfig.json
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\bin\Debug\netcoreapp3.1\Proiect.runtimeconfig.dev.json
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\bin\Debug\netcoreapp3.1\Proiect.dll
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\bin\Debug\netcoreapp3.1\Proiect.pdb
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\obj\Debug\netcoreapp3.1\Proiect.csproj.AssemblyReference.cache
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\obj\Debug\netcoreapp3.1\Proiect.AssemblyInfoInputs.cache
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\obj\Debug\netcoreapp3.1\Proiect.AssemblyInfo.cs
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\obj\Debug\netcoreapp3.1\Proiect.csproj.CoreCompileInputs.cache
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\obj\Debug\netcoreapp3.1\Proiect.dll
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\obj\Debug\netcoreapp3.1\Proiect.pdb
+D:\Master\Anul 1\Sem 2\Medii si platforme de dezvoltare avansate\Restanta\Proiect\obj\Debug\netcoreapp3.1\Proiect.genruntimeconfig.cache

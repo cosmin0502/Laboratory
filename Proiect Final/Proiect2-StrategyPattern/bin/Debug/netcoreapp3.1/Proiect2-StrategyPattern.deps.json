@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Proiect2-StrategyPattern/1.0.0": {
+        "runtime": {
+          "Proiect2-StrategyPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proiect2-StrategyPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
